@@ -1,5 +1,5 @@
 
-<img src="" />
+<img src="https://github.com/berlinbrown/CellularAutomataExamples/raw/master/media/screenshot_squaring_1.png" />
 Introduction
 Squaring Rule from Wolfram's New Kind of Science, given an input N, after so many iterations N^2 will appear.
 
