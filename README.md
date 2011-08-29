@@ -29,3 +29,8 @@ class SquaringRule extends Rules.GeneralRule {
     } // End of Rule 
 </pre>
 The code block above is a snippet for the Scala programming language. The input pattern is a tuple of integers. The first parameter represents the integer value of the left cell, the second parameter represents the center cell, and the third parameter represents the right cell. The integer result of the match on the input pattern will establish the cell state for the next line of the grid.
+
+
+
+<img src="https://github.com/berlinbrown/SkeletonJavaOpenGLScene/raw/master/media/screenshot_with_ce
+llular_demo.png" />
